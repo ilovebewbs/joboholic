@@ -22,10 +22,10 @@ let news_stuff = [];
 	<h1> Tech jobs  </h1>
 	<p>I built this simple app to learn svelte and will be adding more features to it as i learn more</p>
 	<div>
-		<a href="github.com">
+		<a href="https://github.com/ilovebewbs/joboholic">
 			<img src="https://img.icons8.com/color/48/000000/github.png" alt="github">
 		</a>
-		<a href="discord.com">
+		<a href="https://discord.gg/mYbr85WtMN">
 			<img src="https://img.icons8.com/color/48/000000/discord.png" alt="discord">
 		</a>
 	</div>
